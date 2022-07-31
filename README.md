@@ -1,6 +1,8 @@
 # Our-Pizzeria
 
-#### Created a demo application for companies dwelcing in the food industry!
+**Code to be uploaded shortly**
+
+##### Created a demo application for companies dwelcing in the food industry!
 The user can order an item from the presednted Menu, that contains each item's:
 - Name
 - Description
