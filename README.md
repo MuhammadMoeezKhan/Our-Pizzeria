@@ -1,8 +1,6 @@
 # Our-Pizzeria
 
-**Code to be uploaded shortly**
-
-##### Created a demo application for companies dwelcing in the food industry!
+##### Created a demo application for companies delving in the food industry!
 The user can order an item from the presednted Menu, that contains each item's:
 - Name
 - Description
@@ -13,20 +11,16 @@ The Menu list is completely dynamic, the company's manager needs to directly add
 
 Opening up a new food chain? This app is for you! (Reach out to me as well, I too am interested!!)
 
+<br>
 
 ### Gif#1: Pizzeria Menu Without the Android ListView
 #### Reading ...
 <p align="center">
-  <img src="https://drive.google.com/file/d/1P2BGhW5O1F3TO5H7utwpuFybGsJ16Vrf/view?usp=sharing" alt="animated" />
+<a href="https://drive.google.com/uc?export=view&id=1P2BGhW5O1F3TO5H7utwpuFybGsJ16Vrf"><img src="https://drive.google.com/uc?export=view&id=1P2BGhW5O1F3TO5H7utwpuFybGsJ16Vrf" style="width: 270px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </p>
 
-<br>
-
-### Gif#1: Pizzeria Menu With the Android ListView
+### Gif#2: Pizzeria Menu With the Android ListView
 #### Reading ...
 <p align="center">
-  <img src="https://drive.google.com/file/d/1k5iiX_5HpJeHfAGnrdtnIeaD29XGgPWQ/view?usp=sharing" alt="animated" />
+<a href="https://drive.google.com/uc?export=view&id=1k5iiX_5HpJeHfAGnrdtnIeaD29XGgPWQ"><img src="https://drive.google.com/uc?export=view&id=1k5iiX_5HpJeHfAGnrdtnIeaD29XGgPWQ" style="width: 270px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </p>
-
-<br>
-
