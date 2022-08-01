@@ -14,6 +14,19 @@ The Menu list is completely dynamic, the company's manager needs to directly add
 Opening up a new food chain? This app is for you! (Reach out to me as well, I too am interested!!)
 
 
+### Gif#1: Pizzeria Menu Without the Android ListView
+#### Reading ...
+<p align="center">
+  <img src="https://drive.google.com/file/d/1P2BGhW5O1F3TO5H7utwpuFybGsJ16Vrf/view?usp=sharing" alt="animated" />
+</p>
 
-![Pizzeria List Without the Android ListView](file:///C:/Users/mkhan_2024/Desktop/PizzeriaWithoutListVIew.PNG)
+<br>
+
+### Gif#1: Pizzeria Menu With the Android ListView
+#### Reading ...
+<p align="center">
+  <img src="https://drive.google.com/file/d/1k5iiX_5HpJeHfAGnrdtnIeaD29XGgPWQ/view?usp=sharing" alt="animated" />
+</p>
+
+<br>
 
